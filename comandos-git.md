@@ -1,7 +1,8 @@
 # Comandos de git
 
-1. Comando para inicializar el proyecto de git
-```
-git init
-
-```
+1. Comando para inicializar el proyecto en git
+ 
+ ```
+ git init
+ ```
+ 
